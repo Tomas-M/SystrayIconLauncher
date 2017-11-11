@@ -3,6 +3,7 @@
 This is a tiny launcher which shows an icon in system tray (systray)
 and runs a command or application after user clicks the icon.
 Requires GTK2 libraries. To build, you'll need libgtk2.0-dev package installed.
+Systray Icon Launcher was created by Miguel Bastos for Slax <www.slax.org>
 
     Usage:
       systrayicon [OPTION...]
@@ -16,4 +17,4 @@ Requires GTK2 libraries. To build, you'll need libgtk2.0-dev package installed.
       -t, --tooltip                     Text to display when mouse is over the icon.
                                         (optional)
 
-Systray Icon Launcher was created by Miguel Bastos for Slax <www.slax.org>
+
