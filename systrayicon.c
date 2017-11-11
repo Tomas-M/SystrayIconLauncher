@@ -45,7 +45,7 @@ int main(int argc, char *argv[])
 
 	if (option_iconfile) {
 		icon = gtk_status_icon_new_from_file(option_iconfile);
-		g_signal_connect(icon, "activate",
+		g_signal_connect(icon, "button-press-event",
 					G_CALLBACK(run_command_callback), NULL);
 		if (option_tooltip)
 			gtk_status_icon_set_tooltip_text(icon, option_tooltip);
