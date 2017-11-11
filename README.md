@@ -16,3 +16,4 @@ Requires GTK2 libraries. To build, you'll need libgtk2.0-dev package installed.
       -t, --tooltip                     Text to display when mouse is over the icon.
                                         (optional)
 
+Systray Icon Launcher was created by Miguel Bastos for Slax <www.slax.org>
