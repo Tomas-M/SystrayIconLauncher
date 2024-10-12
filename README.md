@@ -16,5 +16,3 @@ Systray Icon Launcher was created by Miguel Bastos for Slax <www.slax.org>
       -c, --command="program -args"     Command to execute.
       -t, --tooltip                     Text to display when mouse is over the icon.
                                         (optional)
-
-
